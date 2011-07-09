@@ -1,3 +1,5 @@
+Removed dependency on  'yajl-ruby', replaced with ActiveSupport so that it can run in jruby 
+
 # rails3-jquery-autocomplete
 
 An easy way to use jQuery's autocomplete with Rails 3.
@@ -6,6 +8,8 @@ Supports both ActiveRecord, [mongoid](http://github.com/mongoid/mongoid), and [M
 
 Works with [Formtastic](http://github.com/justinfrench/formtastic)
 and [SimpleForm](https://github.com/plataformatec/simple_form)
+
+
 
 ## ActiveRecord
 
